@@ -1,8 +1,9 @@
 # HitriZapiski
 To so hitri zapisiki
+
 Je stran na kateri najdeš zapiske za šolo
 
-### Vsebina
+### Vsebina:
 -Seznam učiteljev	
 
 -Seznam predmetov	
@@ -11,11 +12,11 @@ Je stran na kateri najdeš zapiske za šolo
 
 -Zapiski za vsako snov	
 
-### Funkcije
+### Funkcije:
 Najde zapiske za katero koli snov pri katerem koli predmetu
 
 
-### Delovanje 
+### Delovanje: 
 1. odpres spletni stran
 2. Se registriraš
 3. Se prijaviš
