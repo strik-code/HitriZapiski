@@ -11,3 +11,11 @@ Je stran na kateri najdeš zapiske za šolo
 ## Funkcije
 Najde zapiske za kaetro koli snov pri katerem koli predmetu
 
+
+## Delovanje 
+1. odpres spletni stran
+2. Se registriraš
+3. Se prijaviš
+4. Izbereš šolo
+5. Izbereš predmet, snov in profesorja
+6. Se ućiš z dobrimi zapiski
