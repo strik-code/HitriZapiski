@@ -8,6 +8,6 @@ Je stran na kateri najdeš zapiske za šolo
 -Seznam snovi
 -Zapiski za vsako snov
 
-##Funkcije
+## Funkcije
 Najde zapiske za kaetro koli snov pri katerem koli predmetu
 
