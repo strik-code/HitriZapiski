@@ -23,3 +23,6 @@ Najde zapiske za katero koli snov pri katerem koli predmetu
 4. Izbereš šolo
 5. Izbereš predmet, snov in profesorja
 6. Se učiš z dobrimi zapiski
+
+
+GEJ SI
