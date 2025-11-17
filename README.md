@@ -25,4 +25,4 @@ Najde zapiske za katero koli snov pri katerem koli predmetu
 6. Se učiš z dobrimi zapiski
 
 
-GEJ SI
+
