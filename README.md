@@ -4,8 +4,11 @@ Je stran na kateri najdeš zapiske za šolo
 
 ### Vsebina
 -Seznam učiteljev	
+
 -Seznam predmetov	
+
 -Seznam snovi	
+
 -Zapiski za vsako snov	
 
 ### Funkcije
