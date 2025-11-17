@@ -12,7 +12,7 @@ Je stran na kateri najdeš zapiske za šolo
 -Zapiski za vsako snov	
 
 ### Funkcije
-Najde zapiske za kaetro koli snov pri katerem koli predmetu
+Najde zapiske za katero koli snov pri katerem koli predmetu
 
 
 ### Delovanje 
